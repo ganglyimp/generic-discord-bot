@@ -62,7 +62,7 @@ client.on('message', async receivedMessage => {
 	console.log("\tArguments: " + args);
 
 	if(!client.commands.has(commandName)) {
-		client.commands.get('simpleConvo').execute(receivedMessage, args);
+		client.commands.get('chat').execute(receivedMessage, args);
 
 		console.log();
 		return;
