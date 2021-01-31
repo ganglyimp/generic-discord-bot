@@ -1,0 +1,46 @@
+[
+	{
+		"type": "compliments", 
+
+		"input": ["astronomical",
+				  "badass",
+				  "beautiful",
+				  "succulent"],
+
+		"output": [":heart:"]
+	},
+	{
+		"type": "insults", 
+
+		"input": ["ass",
+				  "assclown",
+				  "asshole",
+				  "bad",
+				  "bitch",
+				  "boomer",
+				  "bootlicker",
+				  "bozo",
+				  "butthole",
+				  "doofus",
+				  "douche",
+				  "dumb",
+				  "egghead",
+				  "loser",
+				  "nazi",
+				  "nasty",
+				  "muppet",
+				  "pig",
+				  "robot",
+				  "shit",
+				  "shithead",
+				  "smelly",
+				  "stinky",
+				  "stoopid",
+				  "stupid",
+				  "tina",
+				  "traitor",
+				  "ugly"],
+
+		"output": ["I'm rubber, you're glue."]
+	}
+]

@@ -1,0 +1,8 @@
+{
+	"prefix": "bot-prefix",
+	"token": "secret-token",
+
+	"botCreator": "creator-id",
+	"discriminatedRole": "role-id",
+	"botChannel": "channel-id"
+}

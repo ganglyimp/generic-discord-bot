@@ -1,0 +1,103 @@
+[
+	{
+		"type": "greetings", 
+
+		"input": ["ahoy",
+				  "aloha",
+				  "ello govnor",
+				  "hello", 
+				  "hi", 
+				  "hiya",
+				  "howdy", 
+				  "it's been a while",
+				  "its been a while",
+				  "long time no see",
+				  "good afternoon",
+				  "good evening",  
+				  "good morning",  
+				  "good to see you",
+				  "greetings", 
+				  "nice to see you",
+				  "salutations", 
+				  "yello"],
+
+		"output": ["Hello!, :wave:", 
+				   "Long time no see!",
+				   ":)"]
+	},
+	{
+		"type": "questionGreetings", 
+
+		"input": ["are you ok",
+				  "how's life",
+				  "how's your day",
+				  "how are you",
+				  "how do you do",
+				  "how have you been",
+				  "how r u", 
+				  "hows life",
+				  "hows your day",
+				  "howzit",
+				  "r u ok",
+				  "what's cookin", 
+				  "what's crackin",
+				  "what's new",
+				  "what's up", 
+				  "what's shakin",
+				  "whats cookin",
+				  "whats crackin", 
+				  "whats new",
+				  "whats shakin",
+				  "whats up",
+				  "wassup", 
+				  "you alright"],
+
+		"output": ["I'm doing pretty alright.",
+				   "I had just the most awful day today.",
+				   "Nothing much."]
+	},
+	{
+		"type": "goodbyes", 
+
+		"input": ["adieu",
+				  "adios",
+				  "bon voyage",
+				  "byb", 
+				  "brb", 
+				  "cheerio",
+				  "ciao",
+				  "duces",
+				  "farewell", 
+				  "godspeed",
+				  "goodbye", 
+				  "hasta la vista",
+				  "later", 
+				  "peace out",
+				  "take it easy", 
+				  "toodaloo", 
+				  "toodles",
+				  "see ya", 
+				  "see you later",
+				  "so long",  
+				  "syonara"],
+
+		"output": ["Bye bye :wave:",
+				   "See ya!"]
+	},
+	{
+		"type": "insults", 
+
+		"input": ["u r ugly"],
+
+		"output": ["no u"]
+	},
+	{
+		"type": "compliments", 
+
+		"input": ["i love you"],
+				  
+		"output": ["Thank u.",
+				   "Is this love?",
+				   ":heart:"]
+	}
+]
