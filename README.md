@@ -8,7 +8,7 @@ This is a stripped down version of a joke bot I made for a personal server, whic
 ## Currently Implemented Commands: 
 Command Name | Description
 ------------ | ------------ 
-Help | Dynamic help command. Code repurposed from [here](https://discordjs.guide/command-handling/adding-features.html#a-dynamic-help-command).
+Help | Dynamic help command. Code shamelessly repurposed from [here](https://discordjs.guide/command-handling/adding-features.html#a-dynamic-help-command).
 Clear | Bulk deletes a specified number of messages from a channel.
 Kick | Kicks a specified member from the server.
 Say | Tell the bot to send a specific message to a specific channel.
