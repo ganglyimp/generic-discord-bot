@@ -10,7 +10,7 @@ module.exports = {
 };
 
 function giveAdvice() {
-	let responses = ["Yes, queen. You know it.",
+	let responses = ["Yes, you know it.",
 					"Of fucking course, yes. Why are you asking me? You already know what's up.",
 					"YES YES YES YES.",
 					"I dunno, I guess?",
@@ -20,15 +20,15 @@ function giveAdvice() {
 					"My guy, you better believe your bottom dolla that's gonna be an absolute yes.",
 					"Yes.",
 					"Queen, the universe is singing to you. Do you hear it? **YES**",
-					"Hunny, what was that? You gotta rephrase that.",
-					"Why the fuck do you think *I'd* know?",
-					"Bitch, I'm not your therapist. I got a PhD in tits and ass, not listening to you moan bout your petty issues.",
-					"Fuck if I know.",
+					"What was that? You gotta rephrase that.",
+					"Why the heck do you think *I'd* know?",
+					"I'm not your therapist. I'm not listening to you moan bout your petty issues.",
+					"Hell if I know.",
 					"Hell no.",
-					"Fuck off with that shit. No fucking way.",
+					"No.",
 					"**Absolutely not.**",
-					"Fuck no. And these tits don't lie.",
-					"Not in a million years, herbo."];
+					"NO.",
+					"Not in a million years."];
 
 	var rando = Math.floor(Math.random() * responses.length);
 	return responses[rando];
