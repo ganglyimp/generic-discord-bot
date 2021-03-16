@@ -15,4 +15,4 @@ Say | Tell the bot to send a specific message to a specific channel.
 Roll | Dice rolling simulator. Can roll with modifiers or with advantage or disadvantage (DnD style).
 Advice | 8-ball. Ask a yes or no question and get a response.
 You | Intended to be used to parse direct compliments/insults to the bot (Ex. You are beautiful). Bot will respond accordingly.
-Chat | Any input that isn't covered by an existing command gets sent here. Will parse the message and see if it recognizes a greeting/goodbye and response appropriately.
+Chat | Any input that isn't covered by an existing command gets sent here. Will parse the message and see if it recognizes a greeting/goodbye and respond appropriately.
