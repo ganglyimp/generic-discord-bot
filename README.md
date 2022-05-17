@@ -1,5 +1,5 @@
-# generic-discord-bot
-A generic, general purpose discord bot I built using the [Discord.js tutorials](https://discordjs.guide) as a guide. 
+# generic-discord-bot (for discord.js V12)
+A generic, general purpose discord bot I built using the [Discord.js tutorials](https://v12.discordjs.guide/) as a guide. 
 <p>Works with Discord.js V12</p>
 <p>Some code, like the command handler, was taken straight from the Discord.js tutorials.</p> 
 
